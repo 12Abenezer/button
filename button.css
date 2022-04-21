@@ -1,0 +1,51 @@
+.search{
+   border-radius: 10mm;
+    margin-top: 5%;
+    margin-left: 9%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+    padding-left: 5%;
+    padding-right: 10mm;
+   background-color: rgb(253, 253, 242);
+   color: lightseagreen;
+   border-color: lightgreen;
+   border-width: 0.5mm;
+   text-align: center;
+   
+}
+.CA{
+background-color: royalblue;
+color: aliceblue;
+margin: 25mm;
+margin-left: 9%;
+margin-top: 5mm;
+padding: 2mm;
+padding-right: 13mm;
+text-size-adjust: 10mm;
+box-shadow: 10cm;
+
+
+  
+    
+
+}
+
+.nice{
+    border-radius: 20mm;
+    
+    background-color: mediumspringgreen;
+    margin: 9mm;
+margin-left: 9%;
+margin-bottom: 0.5%;
+padding: 2mm;
+padding-right: 6mm;
+padding-left: 0.5mm;
+color: aliceblue;
+    
+}
+
+
+
+
+
+
